@@ -1,0 +1,9 @@
+/results
+/experiments
+/datasets
+*.log
+*.jpeg
+*.png
+*.jpg
+*.pth
+*.pyc

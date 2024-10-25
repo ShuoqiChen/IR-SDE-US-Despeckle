@@ -1,0 +1,1 @@
+source /isi/env/ir-sde/bin/activate
